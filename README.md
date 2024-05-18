@@ -2,12 +2,12 @@
 # Output on full screen 
 ![Screenshot 2024-05-18 145044](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/d5f41813-b151-4159-8d5b-58efdb7092c2)
 
-# responsive 
-![Screenshot 2024-05-18 150255](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/3afc9fd2-b6ca-4b08-a095-7392342ee322)
+# responsive on max-width 500px
+![Screenshot 2024-05-18 153207](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/266b9045-76b6-480b-bdda-0f422e2043f5)
 
-![Screenshot 2024-05-18 150308](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/4c67abbe-b200-49b2-935e-439bc8924ea0)
+![Screenshot 2024-05-18 153233](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/f4778395-f125-4f59-9223-be6fcf55798f)
 
-![Screenshot 2024-05-18 150318](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/2702f30a-8a18-428d-bdf9-591f4be57c44)
+![Screenshot 2024-05-18 153248](https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/5907c1f2-f4e3-46f2-871f-a34711447cd2)
 
 # video
 
