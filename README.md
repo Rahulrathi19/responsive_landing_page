@@ -16,16 +16,19 @@ https://github.com/Rahulrathi19/responsive_landing_page/assets/168728595/2208530
 
 6c2)
 ## Explanation about HtML code
-# icon used from 
+### icon used from 
 https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css
-# Top 
-In the main page we made two div Top and Bottom 
+## Top Part
+In the main page we made two div Top and Bottom.
 After that in the Top div we made DIv for overlay and text after using of H1 we wright a main heading name And wright two paragraph for post .
 ater that we will made a div for icons and used icon from remixicon website (Instagram,Twitter,Facebook )
 
-# bottom 
+## Bottom  Part
 in the bottom part we made four sections(Div) Bone,Btwo,Bthree,Bfour.
+
 in the Bone Div we write a heading for post and after that using paragraph tag and write about post.
 in Btwo div we add a image for make attractive landing page.
+
 in Bthree we divide it into two parts (Bthreetop and BthreeBottom ) in Bthreetop we write a post using Paragraph tag and Bthreebottom we add a image Using image tag .
+
 in Bfour div we write a heading about page and ater that we made two  div for notification and two for notification icon type image div.
