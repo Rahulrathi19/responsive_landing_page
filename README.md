@@ -1,5 +1,5 @@
 # responsive_landing_page
-I develop this landing_page using our own Logic. 
+I develop this landing_page using our own Design. 
 
 it is very eassy to made a  responsive landing page using Html and CSS
 # Output on full screen 
