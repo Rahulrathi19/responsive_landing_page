@@ -40,3 +40,25 @@ In Bfour div we write a heading about page and ater that we made two  div for no
 ## Explanation about Made responsive website 
 First we set the max-width for open in small screen after that set flex-direction and align-iteam for overlay page.
 And then we set min-height ,flex-direction ,margin ,font size where required.
+
+## Summary of Explanation 
+The first code snippet is an HTML document structure for a landing page, while the second code snippet is a CSS stylesheet providing styling for the HTML elements. Here's a summary of what each code does:
+
+**HTML (Landing Page Structure):**
+- Defines the structure of the landing page using HTML elements like `<div>`, `<h1>`, `<p>`, and `<i>`.
+- Divides the page into sections such as the main container (`#main`), top section (`#top`), and bottom section (`#bottom`).
+- Includes placeholders for text content, images, and social media icons.
+- Utilizes external resources like background images from Unsplash and the Remixicon library for icons.
+- Organizes content into responsive sections using CSS media queries.
+
+**CSS (Styling):**
+- Sets global styles for all elements using the wildcard selector `*`, ensuring no default margins or paddings.
+- Defines the font-family as "Gilroy" for all text elements.
+- Sets `box-sizing` to `border-box` to include padding and border in the element's total width and height.
+- Specifies styles for specific elements and IDs like `#main`, `#top`, `#overlay`, `#text`, `#textright`, `#bone`, `#btwo`, `#bthree`, `#bthreetop`, `#bthreebottom`, `#bfour`, `.notf`, and their nested elements.
+- Defines layout properties such as `width`, `min-height`, and `background-color`.
+- Uses `background-image`, `background-size`, and `background-position` to control background images.
+- Aligns text and elements using flexbox (`align-items`, `justify-content`, `flex-direction`) within containers.
+- Provides responsive design using `@media` queries for smaller screen sizes, adjusting layout and text size accordingly.
+
+In summary, the HTML defines the structure of the landing page, while the CSS provides the styling to make it visually appealing and responsive across different devices.
