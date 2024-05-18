@@ -42,7 +42,6 @@ First we set the max-width for open in small screen after that set flex-directio
 And then we set min-height ,flex-direction ,margin ,font size where required.
 
 ## Summary of Explanation 
-The first code snippet is an HTML document structure for a landing page, while the second code snippet is a CSS stylesheet providing styling for the HTML elements. Here's a summary of what each code does:
 
 **HTML (Landing Page Structure):**
 - Defines the structure of the landing page using HTML elements like `<div>`, `<h1>`, `<p>`, and `<i>`.
@@ -61,4 +60,4 @@ The first code snippet is an HTML document structure for a landing page, while t
 - Aligns text and elements using flexbox (`align-items`, `justify-content`, `flex-direction`) within containers.
 - Provides responsive design using `@media` queries for smaller screen sizes, adjusting layout and text size accordingly.
 
-In summary, the HTML defines the structure of the landing page, while the CSS provides the styling to make it visually appealing and responsive across different devices.
+ The HTML defines the structure of the landing page, while the CSS provides the styling to make it visually appealing and responsive across different devices.
